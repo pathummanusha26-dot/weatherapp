@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">UniversityWeather</string>
+    <string name="weather_app">Weather App</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="search_weather">Search Weather</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="wind_speed">WIND SPEED</string>
+    <string name="km_h">km/h</string>
+    <string name="search_placeholder">Search for a city to see the weather</string>
+    <string name="weather_results_colombo">Weather Results - Colombo</string>
+    <string name="weather_app_home">Weather App Home</string>
 </resources>
