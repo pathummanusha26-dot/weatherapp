@@ -1,0 +1,17 @@
+{
+  "name": "Colombo",
+  "main": {
+    "temp": 29.04,
+    "humidity": 82
+  },
+  "weather": [
+    {
+      "main": "Rain",
+      "description": "light rain"
+    }
+  ],
+  "wind": {
+    "speed": 5.71
+  },
+  "cod": 200
+}
